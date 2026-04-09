@@ -43,6 +43,27 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    ...
+
+    ... What? AI? Wasn't that something we
+    thought was sci-fi?
+
+    ...
+
+    It was can write code? Let me try with it real quick...
+
+    ...
+
+    ...
+
+    Hey, it's not half bad.
+
+    ...
+    
+    Wait, that won't work.
+
+    Where is it pulling these libraries?
 `;
 
 console.log(poem);
